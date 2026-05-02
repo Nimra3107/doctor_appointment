@@ -1,2 +1,2 @@
-# doctor_appointment
+# doctor-appointment
 for hosting
